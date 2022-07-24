@@ -12,7 +12,7 @@ from datetime import datetime
 @dataclass
 class Message:
     text: str
-    timestamp: int = datetime.timestamp(datetime.now())
+    timestamp: int = int(datetime.timestamp(datetime.now()) * 1000)
 
 
 class ChatSession:
