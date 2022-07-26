@@ -1,6 +1,6 @@
 <h2 style="font-size: 30px; text-align: center;">Simple FastAPI Chat</h2>
 <p align="center" style="margin-top: 40px;">
-  <img src="art/SimpleFastApiChat.gif" width="70%" />
+  <img src="art/SimpleFastApiChat.gif" width="70%" alt="Gif demonstrating project" />
 </p>
 
 ## Built with 🛠
